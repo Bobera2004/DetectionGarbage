@@ -27,7 +27,7 @@
 
 ## ⚙️ Установка и запуск
 
-### 1. Клонировать репозиторий
+### Клонировать репозиторий
 ```bash
 git clone https://github.com/your-username/rzd-trash-detection.git
 cd rzd-trash-detection

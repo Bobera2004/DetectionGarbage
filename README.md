@@ -31,3 +31,5 @@
 ```bash
 git clone https://github.com/your-username/rzd-trash-detection.git
 cd rzd-trash-detection
+```
+Для корректной работы с видео необходимо скачать FFmpeg и поместить его в корневую директорию проекта
